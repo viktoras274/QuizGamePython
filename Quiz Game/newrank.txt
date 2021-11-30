@@ -1,0 +1,15 @@
+1 170 viktor
+2 140 fotis-xhul
+3 100 papi
+4 70 vik
+5 50 noni
+6 50 vikt
+7 30 arian
+8 30 ermi
+9 30 ermio
+10 20 hermione
+11 20 vikia
+12 10 erm
+13 10 herm
+14 0 pap
+15 0 viktoras
